@@ -1,4 +1,4 @@
-### Olá! Meu nome é Gustavo Perusato 😃
+### Hi there! I'm Gustavo Perusato 😃
 
 ##
 - 🔭 Working with Security Systems
