@@ -1,9 +1,9 @@
 ### Olá! Meu nome é Gustavo Perusato 😃
 
 ##
-- 🔭 Atualmente trabalho com Sistemas de Segurança e Monitoramento
-- 🌱 Estudando Ciências Econômicas e Programação voltada a Ciência de Dados
-- 📫 Contate-me no endereço gustavoperusato@gmail.com
+- 🔭 Working with Security Systems
+- 🌱 Studying Echonomics and Programming
+- 📫 Contacts below
 - 😄 Pronouns: ele/dele
 - ⚡ “Whatever Your Mind Can Conceive and Believe, It Can Achieve.” – Napoleon Hill
 
