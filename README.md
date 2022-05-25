@@ -1,8 +1,8 @@
 ### Hi there! I'm Gustavo Perusato 😃
 
 ##
-- 🔭 Working with Security Systems
-- 🌱 Studying Echonomics and Programming
+- 🔭 Working with Business Inteligence Analysis
+- 🌱 Studying Software Engineering
 - 📫 Contacts below
 - 😄 Pronouns: ele/dele
 - ⚡ “Whatever Your Mind Can Conceive and Believe, It Can Achieve.” – Napoleon Hill
