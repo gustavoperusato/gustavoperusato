@@ -22,7 +22,7 @@
 ##
 <div>
   <a href="https://www.linkedin.com/in/gustavoperusato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GPerusato&amp;show_icons=true&amp;theme=gruvbox&amp;include_all_commits=true&amp;count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoperusato&amp;show_icons=true&amp;theme=gruvbox&amp;include_all_commits=true&amp;count_private=true"/>
 </div>
   
 ##
