@@ -1,7 +1,7 @@
 ### Hi there! I'm Gustavo Perusato 😃
 
 ##
-- 🔭 Working as Business Inteligence Analysis / Python Development
+- 🔭 Working as Business Inteligence Analysis / Python Developer
 - 🌱 Studying Software Engineering
 - 📫 Contacts below
 - ⚡ “Whatever Your Mind Can Conceive and Believe, It Can Achieve.” – Napoleon Hill
