@@ -25,13 +25,13 @@
 
 
 </div>
-
+<!-- 
 ##
 <div>
   <a href="https://www.linkedin.com/in/gustavoperusato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoperusato&show_icons=true&theme=gruvbox"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoperusato&theme=gruvbox"/>
-</div>
+</div> -->
   
 ##
   <div> 
