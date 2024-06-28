@@ -1,4 +1,4 @@
-### Hi there! I'm Gustavo Perusato 😃
+### Hi there! I'm Gus 😃
 
 ##
 - 🔭 Working as Data Engineer/Back-end dev at JustMiine
