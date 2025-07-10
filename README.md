@@ -1,8 +1,7 @@
 ### Hi there! I'm Gus 😃
 
 ##
-- 🔭 Working as Data Engineer/Back-end dev at JustMiine
-- 🌱 Studying Software Engineering
+- 🔭 Working as Dev at Elevor Softwares
 - 📫 Contacts below
 - ⚡ “Whatever Your Mind Can Conceive and Believe, It Can Achieve.” – Napoleon Hill
 
