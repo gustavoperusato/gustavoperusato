@@ -1,7 +1,7 @@
-### Hi there! I'm Gus 😃
+### Hi there! I'm Gus
 
 ##
-- 🔭 Working as Dev at Elevor Softwares
+- 🔭 Founder at Aslan System
 - 📫 Contacts below
 - ⚡ “Whatever Your Mind Can Conceive and Believe, It Can Achieve.” – Napoleon Hill
 
