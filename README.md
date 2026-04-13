@@ -1,41 +1,56 @@
-### Hi there! I'm Gus
+### Hi! I'm Gus Perusato 👋
 
-##
-- 🔭 Founder at Aslan System
-- 📫 Contacts below
-- ⚡ “Whatever Your Mind Can Conceive and Believe, It Can Achieve.” – Napoleon Hill
+**Software Engineer | Architect | Founder @ Aslan System**
 
-##
+Software Developer focused on the design, architecture, and maintenance of scalable technological solutions. Specialist in creating robust ecosystems for retail, logistics, and agribusiness, with a strong emphasis on SaaS financial architectures and electronic fiscal systems.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gus-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Gus-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gus-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">  
-  <img align="center" alt="Gus-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Gus-Node" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />  
-  <img align="center" alt="Gus-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">    
-  <img align="center" alt="Gus-Google" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
-  <img align="center" alt="Gus-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Gus-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+- 🏢 Founder of **Aslan System**, based in Brazil.
+- ⚙️ Practical focus on **Clean Architecture, SOLID** principles, and patterns like **BFF** and **Repository**.
+- 🚀 Currently scaling SaaS projects and exploring AI agent integrations to optimize development workflows.
+- ⚡ *“Whatever Your Mind Can Conceive and Believe, It Can Achieve.”* – Napoleon Hill
 
+---
 
+### 🛠️ Tech Stack & Tools
+
+<div style="display: inline_block; margin-top: 10px;">
+  <img align="center" alt="C#" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
+  <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Supabase" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
+  <img align="center" alt="NodeJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="VSCode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Visual Studio" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
-<!-- 
-##
-<div>
-  <a href="https://www.linkedin.com/in/gustavoperusato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoperusato&show_icons=true&theme=gruvbox"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoperusato&theme=gruvbox"/>
-</div> -->
-  
-##
-  <div> 
-    <a href = "mailto:gustavoperusato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gustavoperusato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<!--    <a href = "https://api.whatsapp.com/send?phone=5555991343238"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+<br>
+
+<!-- ### 📊 GitHub Stats
+
+<div align="left" style="display: flex; gap: 10px;">
+
+  <a href="https://github.com/gustavoperusato">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavoperusato&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117"/>
+  </a>
+  <a href="https://github.com/gustavoperusato">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoperusato&theme=dracula&hide_border=true&layout=compact&bg_color=0D1117"/>
+  </a>
+</div>
 -->
- 
-</div>
+<br>
 
-  <!-- ![Snake animation](https://github.com/gustavoperusato/gustavoperusato/blob/output/github-contribution-grid-snake.svg) -->
-  
+### 📫 Let's Connect
+
+<div>
+  <a href="https://aslansystem.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Aslan_System-000000?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank" alt="Aslan System">
+  </a>
+  <a href="mailto:gustavoperusato@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/gustavoperusato" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+  </a>
+</div>
